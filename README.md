@@ -1,13 +1,11 @@
 # Tic-Tac-Toe-LMS-rule
 
-Teaching a Computer to Play TicTacToe using LMS
+<h3>Teaching a Computer to Play TicTacToe using <bold>LMS</bold></h3>
 
-```
-V(b) = true target function. Actual board.
+<p>V(b) = true target function. Actual board.</p>
 V'(b) = learned target function. Selected board.
 
 alfa = 0.1
-```
 
 LMS weight update rule:
 - Select a training example b;
