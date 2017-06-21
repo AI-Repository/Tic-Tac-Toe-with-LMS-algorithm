@@ -1,5 +1,3 @@
-# Tic-Tac-Toe-LMS-rule
-
 <h3>Teaching a Computer to Play TicTacToe using <bold>LMS</bold></h3>
 
 ## Training rules:
