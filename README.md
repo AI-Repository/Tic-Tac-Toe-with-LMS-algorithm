@@ -2,17 +2,15 @@
 
 <h3>Teaching a Computer to Play TicTacToe using <bold>LMS</bold></h3>
 
-<p>V(b) = true target function. Actual board.</p>
-V'(b) = learned target function. Selected board.
+## Training rules:
+* V(b) = true target function. Actual board
+* V'(b) = learned target function. Selected board
+* alfa = 0.1
 
-alfa = 0.1
-
-LMS weight update rule:
-- Select a training example b;
-- Compute the error(b)
-	error(b) = V(b) - V'(b)
-- update weights
-	w_i = w_i + alfa * V(b) * error(b)
+## LMS weight update rule:
+* Select a training example b;
+* Compute the error(b) = V(b) - V'(b)
+* update weights w_i = w_i + alfa * V(b) * error(b)
 
 ## Target Function: 
 
