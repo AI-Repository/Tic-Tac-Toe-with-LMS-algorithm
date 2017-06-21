@@ -26,4 +26,6 @@ V(b) = w_0 + w_1 * x1 + w_2 * x2 + w_3 * x3 + w_4 * x4 + w_5 * x5 + w_6 * x6;
 * x5 = # of instances of 3 x's in a row (value of 1 signifies end game)
 * x6 = # of instances of 3 o's in a row (value of 1 signifies end game)
 
+
+video: https://youtu.be/Gi8qRzbfrAM
 credits: http://www.christopia.net/blog/teaching-a-computer-to-play-tictactoe
